@@ -4,6 +4,9 @@ Welcome to my simple **Snake Game** project built with **Python** and **Pygame**
 This is a beginner-friendly game development project that helped me learn more about Python event handling, loops, and basic 2D rendering.
 
 ---
+## 📸 Screenshot
+
+![Snake Game Screenshot](Snake_Game_Screenshot.png)
 
 ## 🎮 Features
 

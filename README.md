@@ -6,7 +6,7 @@ This is a beginner-friendly game development project that helped me learn more a
 ---
 ## 📸 Screenshot
 
-![Snake Game Screenshot](snake_game_screenshot.png)
+![Snake Game Screenshot](snake_game_screenshoot.png)
 
 ## 🎮 Features
 
